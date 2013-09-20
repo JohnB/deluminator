@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'deluminator'
-  s.version     = '0.0.1'
-  s.date        = '2013-08-15'
+  s.version     = '0.0.2'
+  s.date        = '2013-09-20'
   s.summary     = "Confuses stuff"
   s.description = "Consistently obfuscates any text, leaving reserved words unchanged."
   s.authors     = ["John Baylor"]
