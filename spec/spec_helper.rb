@@ -1,6 +1,4 @@
-require 'rspec'
+require_relative '../lib/deluminator.rb'
+require 'yaml'
 
-RSpec.configure do |config|
-  config.order = "random"
-end
 

@@ -1,5 +1,4 @@
-require File.dirname(__FILE__) + '/spec_helper'
-require File.dirname(__FILE__) + '/../deluminator'
+require 'spec_helper'
 
 describe Deluminator do
   describe "new" do
